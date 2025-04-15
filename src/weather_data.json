@@ -1,0 +1,261 @@
+[
+    {
+        "city_name": "Tokyo",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": null,
+        "weatherbit_accuracy_avg": null,
+        "weatherapi_accuracy_avg": null
+    },
+    {
+        "city_name": "Canberra",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": null,
+        "weatherbit_accuracy_avg": null,
+        "weatherapi_accuracy_avg": null
+    },
+    {
+        "city_name": "New Delhi",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 5.369375,
+        "weatherbit_accuracy_avg": 5.95,
+        "weatherapi_accuracy_avg": 1.8375
+    },
+    {
+        "city_name": "Avarua",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 3.04125,
+        "weatherbit_accuracy_avg": 2.64375,
+        "weatherapi_accuracy_avg": 2.5125
+    },
+    {
+        "city_name": "Tarawa",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 5.41125,
+        "weatherbit_accuracy_avg": 5.81875,
+        "weatherapi_accuracy_avg": 5.525
+    },
+    {
+        "city_name": "Funafuti",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 2.30875,
+        "weatherbit_accuracy_avg": 2.2375,
+        "weatherapi_accuracy_avg": 2.1625
+    },
+    {
+        "city_name": "Phnom Penh",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 3.19375,
+        "weatherbit_accuracy_avg": 4.45,
+        "weatherapi_accuracy_avg": 4.2625
+    },
+    {
+        "city_name": "Baku",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 2.740625,
+        "weatherbit_accuracy_avg": 4.1375,
+        "weatherapi_accuracy_avg": 4.3625
+    },
+    {
+        "city_name": "Bishkek",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 2.079375,
+        "weatherbit_accuracy_avg": 2.4875,
+        "weatherapi_accuracy_avg": 3.4125
+    },
+    {
+        "city_name": "Kabul",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 5.39,
+        "weatherbit_accuracy_avg": 4.15,
+        "weatherapi_accuracy_avg": 2.36875
+    },
+    {
+        "city_name": "Helsinki",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 1.62875,
+        "weatherbit_accuracy_avg": 1.26875,
+        "weatherapi_accuracy_avg": 1.89375
+    },
+    {
+        "city_name": "Yerevan",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 2.2275,
+        "weatherbit_accuracy_avg": 3.65625,
+        "weatherapi_accuracy_avg": 2.90625
+    },
+    {
+        "city_name": "Addis Ababa",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 2.746875,
+        "weatherbit_accuracy_avg": 3.08125,
+        "weatherapi_accuracy_avg": 3.61875
+    },
+    {
+        "city_name": "Andorra la Vella",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 1.87125,
+        "weatherbit_accuracy_avg": 2.84375,
+        "weatherapi_accuracy_avg": 3.34375
+    },
+    {
+        "city_name": "Luanda",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 1.3425,
+        "weatherbit_accuracy_avg": 1.7,
+        "weatherapi_accuracy_avg": 2.69375
+    },
+    {
+        "city_name": "Kinshasa",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 2.720625,
+        "weatherbit_accuracy_avg": 2.4,
+        "weatherapi_accuracy_avg": 2.75
+    },
+    {
+        "city_name": "Paris",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 2.24375,
+        "weatherbit_accuracy_avg": 4.06875,
+        "weatherapi_accuracy_avg": 4.00625
+    },
+    {
+        "city_name": "Reykjavik",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 1.4825,
+        "weatherbit_accuracy_avg": 1.53125,
+        "weatherapi_accuracy_avg": 2.30625
+    },
+    {
+        "city_name": "Accra",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 0.766875,
+        "weatherbit_accuracy_avg": 2.0,
+        "weatherapi_accuracy_avg": 2.75625
+    },
+    {
+        "city_name": "Bogota",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 7.764375,
+        "weatherbit_accuracy_avg": 4.71875,
+        "weatherapi_accuracy_avg": 5.73125
+    },
+    {
+        "city_name": "Azores",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 0.80875,
+        "weatherbit_accuracy_avg": 1.8,
+        "weatherapi_accuracy_avg": 0.8375
+    },
+    {
+        "city_name": "Ottawa",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 4.093125,
+        "weatherbit_accuracy_avg": 2.86875,
+        "weatherapi_accuracy_avg": 3.2
+    },
+    {
+        "city_name": "Quito",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 7.62625,
+        "weatherbit_accuracy_avg": 2.5125,
+        "weatherapi_accuracy_avg": 5.18125
+    },
+    {
+        "city_name": "Pago Pago",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 3.52857142857143,
+        "weatherbit_accuracy_avg": 2.63571428571429,
+        "weatherapi_accuracy_avg": 2.65
+    },
+    {
+        "city_name": "Phoenix",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 6.1375,
+        "weatherbit_accuracy_avg": 2.85,
+        "weatherapi_accuracy_avg": 4.08125
+    },
+    {
+        "city_name": "Vancouver",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 4.10125,
+        "weatherbit_accuracy_avg": 1.60625,
+        "weatherapi_accuracy_avg": 3.2875
+    },
+    {
+        "city_name": "Honolulu",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 5.105625,
+        "weatherbit_accuracy_avg": 3.28125,
+        "weatherapi_accuracy_avg": 4.8625
+    },
+    {
+        "city_name": "Cairo",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 4.13375,
+        "weatherbit_accuracy_avg": 3.65,
+        "weatherapi_accuracy_avg": 3.01875
+    },
+    {
+        "city_name": "Algiers",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 2.085625,
+        "weatherbit_accuracy_avg": 2.4375,
+        "weatherapi_accuracy_avg": 2.05625
+    },
+    {
+        "city_name": "Vienna",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 2.155625,
+        "weatherbit_accuracy_avg": 3.25,
+        "weatherapi_accuracy_avg": 5.2
+    },
+    {
+        "city_name": "Zagreb",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 2.29875,
+        "weatherbit_accuracy_avg": 4.31875,
+        "weatherapi_accuracy_avg": 5.01875
+    },
+    {
+        "city_name": "Ouagadougou",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 1.461875,
+        "weatherbit_accuracy_avg": 4.475,
+        "weatherapi_accuracy_avg": 3.85625
+    },
+    {
+        "city_name": "Banjul",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 7.68625,
+        "weatherbit_accuracy_avg": 5.85625,
+        "weatherapi_accuracy_avg": 1.875
+    },
+    {
+        "city_name": "Buenos Aires",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 3.185,
+        "weatherbit_accuracy_avg": 1.95625,
+        "weatherapi_accuracy_avg": 1.725
+    },
+    {
+        "city_name": "Nassau",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 3.284375,
+        "weatherbit_accuracy_avg": 3.175,
+        "weatherapi_accuracy_avg": 3.34375
+    },
+    {
+        "city_name": "Guatemala City",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 9.994375,
+        "weatherbit_accuracy_avg": 3.05625,
+        "weatherapi_accuracy_avg": 5.6125
+    },
+    {
+        "city_name": "Anchorage",
+        "date": "2025-04-14",
+        "openweather_accuracy_avg": 3.26375,
+        "weatherbit_accuracy_avg": 2.35625,
+        "weatherapi_accuracy_avg": 2.56875
+    }
+]
